@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tick
+- 👀 I’m interested in scripting
+- 🌱 I’m currently learning 3D-Modeling and <Lua/>
+- 📫 How to reach me DC: [Tick_05]#2049
